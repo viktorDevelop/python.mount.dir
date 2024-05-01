@@ -1,0 +1,17 @@
+[
+  { 
+        "name":"chasovoi",
+        "user":"root",
+        "url":"chasovoi.com",
+        "mount":"/home/viktor/chasovoi.com",
+        "server_path":"/var/www/www-root/data/www/chasovoi.com"
+      },
+
+      { 
+        "name":"modelist.com",
+        "user":"bitrix",
+        "url":"188.225.79.16",
+        "mount":"/home/viktor/modelist.com",
+        "server_path":"/var/www/html/feliciya"
+      }
+]
